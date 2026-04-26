@@ -20,10 +20,8 @@ This project demonstrates how routers use forwarding tables and Longest Prefix M
 
 
 
-\## Diagram
-
-Network diagram.png
-
+## Network Diagram
+![Network Diagram](Network%20diagram.png)
 
 
 \## Technologies Used
