@@ -22,7 +22,7 @@ This project demonstrates how routers use forwarding tables and Longest Prefix M
 
 \## Diagram
 
-!\[Network Diagram](your-image-file-name.png)
+Network diagram.png
 
 
 
